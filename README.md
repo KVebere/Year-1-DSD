@@ -1,4 +1,4 @@
-#Coursework for Database system development module of Year 1 of University. 
+# Coursework for Database system development module of Year 1 of University. 
 
 # Background
 Stellar Tutors Inc. (STI), is a startup specialising in providing teaching services for various subjects at different academic levels (L4 - L7). The startup has 4 major educational departments, Mathematics, Computing, Humanities, and Arts, each with a team ranging from 5 to 10 staff members. They aim to expand their offerings to include more academic departments if they observe growing demands. The business has for now two other departments as well (HR and Finance) but it might be possible to add more in the future if the business needs. 
